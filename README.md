@@ -1,3 +1,5 @@
 # JS_proj_playground
 
-1. Quote Generator
+Quote Generator Project
+
+- Using JS, HTML and CSS
